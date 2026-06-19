@@ -1,0 +1,26 @@
+# ========================
+# Mac
+# ========================
+.DS_Store
+**/.DS_Store
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+*.code-workspace
+
+# ========================
+# Angular (client)
+# ========================
+client/node_modules/
+client/dist/
+client/.angular/
+client/.sass-cache/
+client/coverage/
+
+# ========================
+# Sensitive Config
+# ========================
+**/application.properties
+**/application-prod.properties
